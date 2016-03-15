@@ -9,4 +9,4 @@ First Step: 03/15/16
 5. Created Github account with username kablanian39 
 6. Created public repository to store code that must be then cloned into my virtual box OS so that I may store all progress online
 
-Stay Tuned for future updates!
+Stay Tuned for future updates! And by the way this is me trying out vim since apparently it's built into my terminal. Is this how it's done?
